@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sophisticated custom logo combining a graduation cap and checked arrow -->
+    <!-- Shadow background layer -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M 54,22 L 86,34 L 54,46 L 22,34 Z" />
+
+    <!-- Main diamond top of the graduation cap -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,20 L 84,32 L 54,44 L 24,32 Z" />
+
+    <!-- Cap base bottom part -->
+    <path
+        android:fillColor="#E1BEE7"
+        android:pathData="M 40,40 L 40,52 C 40,58 68,58 68,52 L 68,40" />
+
+    <!-- Ribbon tassel hanging down on side -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,32 L 76,42 L 76,56" />
+
+    <!-- Career Checkmark Badge indicating successful prep & planning -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M 66,54 L 60,60 L 52,52 L 46,58 L 60,72 L 74,58 Z" />
+</vector>

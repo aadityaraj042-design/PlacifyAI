@@ -1,0 +1,6 @@
+{
+  "name": "AI Prep & Planner",
+  "description": "An AI-powered professional suite combining an AI Interview Simulator Pro (resume analyzer, live voice chat, technical/HR rounds) and a Smart Attendance Predictor & Planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
